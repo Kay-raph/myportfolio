@@ -1,7 +1,4 @@
 h1 {
-    position: relative;
-    top: left;
-    950px;
     font-size: large;
     color: rgb(17, 17, 17);
 }
@@ -54,4 +51,9 @@ img {
     width: 200px;
     height: 200px;
     border-radius: 50%;
+}
+
+.tags {
+    position: relative;
+    left: 950px;
 }
