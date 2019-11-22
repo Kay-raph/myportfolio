@@ -1,17 +1,10 @@
-.container {
-    float: left;
-}
-
-.clearfix {
-    overflow: auto;
-}
-
-h2 {
-    text-align: center;
-    color: rgb(54, 5, 117);
+h1 {
+    text-align: RIGHT;
+    font-size: large;
+    color: rgb(17, 17, 17);
     background-color: cornsilk;
 }
 
 p {
-    text-align: right;
+    text-align: centre;
 }
