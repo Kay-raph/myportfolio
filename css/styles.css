@@ -1,10 +1,17 @@
-h1 {
-    text-align: RIGHT;
-    font-size: large;
-    color: rgb(17, 17, 17);
-    background-color: cornsilk;
-}
-
-p {
-    text-align: centre;
-}
+    body {
+        background-color: lavender;
+    }
+    
+    h1 {
+        text-align: RIGHT;
+        font-size: large;
+        color: rgb(17, 17, 17);
+    }
+    
+    p {
+        text-align: centre;
+    }
+    
+    .tags {
+        float: top right;
+    }
