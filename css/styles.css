@@ -1,37 +1,38 @@
-    body {
-        background-color: lavender;
-    }
-    
-    h1 {
-        text-align: RIGHT;
-        font-size: large;
-        color: rgb(17, 17, 17);
-    }
-    
-    p {
-        text-align: centre;
-    }
-    
-    .tags {
-        float: top right;
-    }
-    
-    .column {
-        list-style: square;
-        font-style: italic;
-        font-family: cursive;
-        font-style: oblique;
-    }
-    
-    .list {
-        position: relative;
-        top: 0px;
-    }
-    
-    .roman {
-        list-style: circle;
-    }
-    
-    .bcg {
-        color: purple;
-    }
+h1 {
+    text-align: RIGHT;
+    font-size: large;
+    color: rgb(17, 17, 17);
+}
+
+p {
+    text-align: centre;
+}
+
+.tags {
+    float: top right;
+}
+
+.column {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: square;
+    font-style: italic;
+    font-family: cursive;
+    font-style: oblique;
+}
+
+.list {
+    position: relative;
+    top: 0px;
+}
+
+.roman {
+    list-style: circle;
+}
+
+.bcg {
+    color: purple;
+}
+
+.brg {
+    color: purple;
+}
