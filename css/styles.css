@@ -1,17 +1,9 @@
 h1 {
-    text-align: RIGHT;
+    position: relative;
+    top: left;
+    950px;
     font-size: large;
     color: rgb(17, 17, 17);
-}
-
-background-image {
-    background-image: url("kay.jpg");
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 p {
@@ -24,6 +16,8 @@ p {
     font-style: italic;
     font-family: cursive;
     font-style: oblique;
+    position: relative;
+    left: 540px;
 }
 
 .roman {
@@ -42,7 +36,7 @@ p {
 
 .list {
     position: relative;
-    top: 0px;
+    left: 950px;
     margin: 20px;
 }
 
@@ -56,12 +50,8 @@ p {
     margin: 20px;
 }
 
-.tags {
-    position: relative 1000px;
-}
-
 img {
-    width: 600px;
-    height: 800px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
 }
