@@ -15,3 +15,19 @@
     .tags {
         float: top right;
     }
+    
+    .column {
+        list-style: square;
+        font-style: italic;
+        font-family: cursive;
+        font-style: oblique;
+    }
+    
+    .list {
+        position: relative;
+        top: 0px;
+    }
+    
+    .roman {
+        list-style: upper-roman;
+    }
