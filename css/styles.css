@@ -1,0 +1,17 @@
+.container {
+    float: left;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(54, 5, 117);
+    background-color: cornsilk;
+}
+
+p {
+    text-align: right;
+}
