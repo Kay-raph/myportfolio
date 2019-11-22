@@ -4,6 +4,16 @@ h1 {
     color: rgb(17, 17, 17);
 }
 
+background-image {
+    background-image: url("kay.jpg");
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 p {
     text-align: centre;
 }
@@ -53,4 +63,5 @@ p {
 img {
     width: 600px;
     height: 800px;
+    border-radius: 50%;
 }
